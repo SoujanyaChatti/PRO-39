@@ -63,10 +63,10 @@ class Game{
 
                          
                      }
-                     textSize(25);
-                               fill("white");
+                               textSize(25);
+                               fill("yellow");
                                text("Player 1 Score :" +allPlayers.player1.score,50,50);
-                               text("Player 2 Score  :" + allPlayers.player2.score, 50, 100);
+                               text("Player 2 Score  :" + allPlayers.player2.score, 50, 120);
 
                      
                  
